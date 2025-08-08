@@ -92,5 +92,3 @@ These findings can guide **recruitment strategies**, **retention plans**, and **
 - Integration with **Python/R scripts** in Power BI  
 
 ---
-
-⭐ *If you found this project helpful, please give it a star!*
